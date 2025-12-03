@@ -29,7 +29,7 @@ Los datos provienen de datasets de torres de transmisión y detección de fallas
 - Torres de Transmisión: [https://doi.org/10.48550/arXiv.2311.02747](https://doi.org/10.48550/arXiv.2311.02747)
 - Detección de fallas: [https://doi.org/10.1080/01431161.2023.2283900](https://doi.org/10.1080/01431161.2023.2283900)
 
-El dataset se organiza en dos categorías principales:
+El dataset se organiza en dos categorías principales que debera cargar estos dos archivos para que el programa funcione:
 - **`rutas_torres`**: 25 imágenes de torres de transmisión.
 - **`rutas_soporte_pararrayos`**: 910 imágenes de soportes de pararrayos, utilizadas para la detección de óxido. Estas se dividen en subcarpetas `good` y `rust`.
 
